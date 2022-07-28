@@ -40,17 +40,19 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Joy Kwamboka**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [@kwambiee](https://github.com/kwambiee)
+- Twitter: [@kwambiee](https://twitter.com/kwambiee)
+- Linkedin: [Joy Kwamboka](https://www.linkedin.com/in/joy-kwamboka)
+- E-mail: kwambokaj2.jk@gmail.com
 
-👤 **Author2**
+👤 **GedeonTS**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@GedeonTS](https://github.com/GedeonTS)
+- Twitter: [@gedeon191](https://twitter.com/gedeon191)
+- LinkedIn: [ushinid gedeon](https://linkedin.com/in/ushinid-gedeon)
+
 
 ## 🤝 Contributing
 
