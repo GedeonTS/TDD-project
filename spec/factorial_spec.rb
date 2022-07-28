@@ -16,6 +16,13 @@ describe ".Solver" do
         expect { solver.factorial(-1) }.to raise_error(ArgumentError)
         end
     end
+    describe "reverse" do
+        it "should reverse the string" do
+            solver = double
+            allow(solver).to receive(:reverse).with("hello").and_return("olleh")
+            expect(solver.reverse("hello")).to eq("olleh")
+            end
+        end
    
         end
 end
